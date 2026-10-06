@@ -52,3 +52,7 @@ the re-skinning guide, and the image-regeneration scripts) is the deliverable so
 - [AURUM](https://github.com/Muaddd1/AURUM) — luxury gold jewelry template with a live gold price calculator and Arabic RTL ([demo](https://aurum-template-muad1.vercel.app))
 - [GOLDEN CRUST](https://github.com/Muaddd1/GOLDEN-CRUST) — pizza restaurant template with a 3D pizza hero ([demo](https://golden-crust-muad1.vercel.app))
 - [PLINTH](https://github.com/Muaddd1/PLINTH) — interior design studio template in a single HTML file ([demo](https://plinth-template.vercel.app))
+
+## Author
+
+Built by [Mouad Sehli](https://muad-portfolio.vercel.app), freelance front-end developer (React, TypeScript, Tailwind). More work and contact details are on the [portfolio](https://muad-portfolio.vercel.app).
